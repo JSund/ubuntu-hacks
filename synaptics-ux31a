@@ -21,7 +21,7 @@ xinput set-prop "ETPS/2 Elantech Touchpad" "Synaptics Soft Button Areas" \
 # element. order: RT, RB, LT, LB, F1, F2, F3.
 # Disable all corner buttons
 xinput set-prop "ETPS/2 Elantech Touchpad" "Synaptics Tap Action" \
-	0 0 0 0 0 0 0
+	0 0 0 0 1 3 2
 # Default:
 #	2 3 0 0 1 3 0
 
